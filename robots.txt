@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://feridkazimov.github.io/faridkazimov//sitemap.xml
+Sitemap: https://faridkazimov.github.ioferidkazimov/sitemap.xml
