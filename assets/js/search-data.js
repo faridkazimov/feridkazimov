@@ -440,11 +440,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/feridkazimov/books/the_godfather/";
-            },},{id: "news-announcement-1",
-          title: 'Announcement_1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/feridkazimov/news/announcement_1/";
             },},{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
