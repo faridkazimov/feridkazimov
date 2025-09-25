@@ -440,11 +440,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/feridkazimov/books/the_godfather/";
-            },},{id: "news-announcement-2",
-          title: 'Announcement_2',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/feridkazimov/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
