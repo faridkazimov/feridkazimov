@@ -424,11 +424,11 @@ ninja.data = [{
             window.location.href = "/feridkazimov/blog/2015/images/";
           
         },
-      },{id: "post-a-post-with-formatting-and-links",
+      },{id: "post-formatting-and-links",
         
-          title: "a post with formatting and links",
+          title: "Formatting And Links",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "",
         section: "Posts",
         handler: () => {
           
